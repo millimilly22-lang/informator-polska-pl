@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://informator-polska-pl.onrender.com/sitemap.xml
